@@ -17,5 +17,6 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Project/PHP/PHPProject.php to edi
             <button type="button" onclick="validaLogin()">logar </button>
         </form>
         <h1>vitoria</h1>
+         <h1>nova alteração</h1>
     </body>
 </html>
